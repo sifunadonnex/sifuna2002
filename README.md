@@ -4,11 +4,12 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sifuna2002)](https://github.com/anuraghazra/github-readme-stats)
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sifuna2002&theme=outrun&show_icons=true)
 
 
 <!---
+
+[  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sifuna2002)](https://github.com/anuraghazra/github-readme-stats)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sifuna2002&theme=outrun&show_icons=true)](https://stats.deeptrain.net/user/sifuna2002?theme=dark)
 sifuna2002/sifuna2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
