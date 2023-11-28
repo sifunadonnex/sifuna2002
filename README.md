@@ -3,8 +3,11 @@
 - 🌱 I’m currently learning Node Js ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- My Stats
   ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sifuna2002)
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sifuna2002)](https://github.com/anuraghazra/github-readme-stats)
+
+  [outrun]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=outrun
 
 
 <!---
