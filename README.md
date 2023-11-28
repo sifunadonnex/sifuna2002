@@ -4,7 +4,9 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
   ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sifuna2002)
-
+  
+  | | | |
+  | :--: | :--: | :--: |
   | `outrun` ![outrun][outrun] | `ocean_dark` ![ocean_dark][ocean_dark] | `city_lights` ![city_lights][city_lights] |
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sifuna2002)](https://github.com/anuraghazra/github-readme-stats)
