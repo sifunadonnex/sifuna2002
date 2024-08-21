@@ -5,13 +5,11 @@
 I'm a software engineer who is passionate about making things for the web. I have experience working with Java, Spring, TypeScript, Angular, React, NodeJS, Python, C++, and more. I love creating content on YouTube and writing poetry. I'm also a designer and creator. I'm currently working on a project that I'm excited to share with you all soon. Stay tuned!
 
    <p align="left">
-      <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
+      <a href="https://www.youtube.com/@sifunadonnex?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://www.youtube.com/c/fknight">
-         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-      <a href="https://github.com/ForrestKnight?tab=followers">
+      <a href="https://github.com/sifunadonnex?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
+      <a href="https://github.com/sifunadonnex?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
@@ -19,8 +17,6 @@ I'm a software engineer who is passionate about making things for the web. I hav
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -38,32 +34,17 @@ I'm a software engineer who is passionate about making things for the web. I hav
 
 #
 
-### 📺 Latest YouTube Videos
-
-<!-- BEGIN YOUTUBE-CARDS -->
-[![Learn Java OOP (with code examples)](https://ytcards.demolab.com/?id=TiccevwEVe8&title=Learn+Java+OOP+%28with+code+examples%29&lang=en&timestamp=1723212033&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1784 "Learn Java OOP (with code examples)")](https://www.youtube.com/watch?v=TiccevwEVe8)
-[![world's shortest Java course](https://ytcards.demolab.com/?id=b5l5UodFzMo&title=world%27s+shortest+Java+course&lang=en&timestamp=1723125637&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1190 "world's shortest Java course")](https://www.youtube.com/watch?v=b5l5UodFzMo)
-[![I Coded with React for a Year](https://ytcards.demolab.com/?id=0RZGHUwwi4k&title=I+Coded+with+React+for+a+Year&lang=en&timestamp=1722534300&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1574 "I Coded with React for a Year")](https://www.youtube.com/watch?v=0RZGHUwwi4k)
-[![Lefties are Discriminated Against](https://ytcards.demolab.com/?id=3Y80EODrJ_Y&title=Lefties+are+Discriminated+Against&lang=en&timestamp=1722096003&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=60 "Lefties are Discriminated Against")](https://www.youtube.com/watch?v=3Y80EODrJ_Y)
-[![Passion](https://ytcards.demolab.com/?id=fP9c9PB9RKI&title=Passion&lang=en&timestamp=1722009646&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=58 "Passion")](https://www.youtube.com/watch?v=fP9c9PB9RKI)
-[![Llama 3.1 is ACTUALLY really good! (and open source)](https://ytcards.demolab.com/?id=IxbR0yTMMY8&title=Llama+3.1+is+ACTUALLY+really+good%21+%28and+open+source%29&lang=en&timestamp=1721944083&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=425 "Llama 3.1 is ACTUALLY really good! (and open source)")](https://www.youtube.com/watch?v=IxbR0yTMMY8)
-<!-- END YOUTUBE-CARDS -->
-
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
-
-#
-
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
+![Sifuna's GitHub stats](https://github-readme-stats.vercel.app/api?username=sifunadonnex&show_icons=true&theme=gruvbox)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=sifunadonnex&theme=gruvbox&border_radius=4.5) -->
 
 #
 <!--
 <details>
- <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
-   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself iOS development with a dream to build my own app, but that soon got overshadowed by my desire to excel in Java. A desire that landed me a full-stack software engineering job upon graduation. However, I had another desire I had been pursuing throughout this time - YouTube content creation. I eventually ended up quitting my software engineering job to pursue YouTube full-time, and that has been my focus ever since. But there's something that's always bothered me about my journey - abandoning my dream of building my own app to pursue the safe route, a job. Now I've already taken the leap away from that safety net into this uncomfortable, unexplored world that it being a creator. And it worked out, but again, it became comfortable. It's easier to create a video than go out on a ledge and build my own product. I do have to eat, at the end of the day, but I think it's time. It's time to get uncomfortable again. I have a burning desire to get back on the horse, and fulfill that dream younger me had of building my own app, my own product. And in order to do that, I'll be implmementing a few measures to streamline my YouTube content to focus more time on fulfilling that dream - a dream that I'll be ready to tackle in 2023 due to the measure I'm putting in place now until the end of 2022. Don't wait up, because I'm coming.
+ <summary><h3>👨‍💻 Sifuna's Coding Journey</h3></summary>
+    I started coding in 2019 when I was in my first year of university. I was studying Computer Science and I was introduced to Java. I fell in love with programming and I started learning more languages and tools. I learned C++, Python, JavaScript, TypeScript, Angular, React, NodeJS, and more. I started creating content on YouTube and writing poetry. I'm currently working on a project that I'm excited to share with you all soon. Stay tuned!
 -->
-[website]: https://fkcodes.com
-[youtube]: https://youtube.com/fknight
+[website]: https://sifunadonnex.xyz
+[youtube]: https://www.youtube.com/@sifunadonnex
