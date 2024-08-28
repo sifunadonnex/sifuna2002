@@ -36,7 +36,11 @@ I'm a software engineer who is passionate about making things for the web. I hav
 
 ### 📊 Stats
 
-![Sifuna's GitHub stats](https://github-readme-stats.vercel.app/api?username=sifunadonnex&show_icons=true&theme=gruvbox)
+![sifunadonnex's Stats](https://github-readme-stats.vercel.app/api?username=sifunadonnex&theme=dracula&show_icons=true&hide_border=true&count_private=true)
+
+![sifunadonnex's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sifunadonnex&theme=dracula&hide_border=true)
+
+![sifunadonnex's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sifunadonnex&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=sifunadonnex&theme=gruvbox&border_radius=4.5) -->
 
