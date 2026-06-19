@@ -120,7 +120,7 @@ I'm a software engineer passionate about crafting meaningful experiences for the
 | 🐦 X (Twitter) | [@sifunadonnex](https://x.com/sifunadonnex) |
 | 💻 CodePen | [sifunadonnex](https://codepen.io/sifunadonnex) |
 | 📌 Facebook | [sifunadonnex](https://facebook.com/sifunadonnex) |
-| 📸 Instagram | [@sifunadonnex](https://instagram.com/sifunadonnex) |
+| 📸 Instagram | [@sifunadonne](https://instagram.com/sifunadonne) |
 
 </div>
 
